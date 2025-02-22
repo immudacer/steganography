@@ -1,8 +1,5 @@
+#
 import cv2
-# import os
-# import numpy as np
-
-
 # Function to embed message into an image
 def hide_data_in_image(file_path, message, password):
     img = cv2.imread(file_path)
