@@ -1,4 +1,4 @@
-#
+#Copyright (c) 2025 Mudasir Rasool
 import cv2
 # Function to embed message into an image
 def hide_data_in_image(file_path, message, password):
